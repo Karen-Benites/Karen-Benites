@@ -4,9 +4,9 @@
 
 - 👋 I’m Karen
 - 🐢 ESPOL Mechanical engineering graduate
-- 🚀 Self-taught and passionate about Data Science, Analytics, maths, and statistics📶
+- 📶 Self-taught and passionate about Data Science, Analytics, maths, and statistics
 - 📚 Currently freelance
-- Space🚀and nature🪴lover
+- Space 🚀and nature🪴lover
   
 ### My toolkit 👩🏻‍💻🖥️
 - Languages and Software
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" style="vertical-align:top; margin:4px">
-
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="vertical-align:top; margin:4px">
 </p>
 
 - Skills
