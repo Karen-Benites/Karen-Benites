@@ -32,7 +32,7 @@
   </h5>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/karenlbenites"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/karenlbenites/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <!---
