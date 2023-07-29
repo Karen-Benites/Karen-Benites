@@ -28,7 +28,7 @@
 </p>
 
 <h5 align="center">
-   <b> 💬 Connect? lets get social 👇🏻 </b>
+   <b> 💬 Want to connect? 👇🏻 </b>
   </h5>
 
 <p align='center'>
