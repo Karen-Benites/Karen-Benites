@@ -27,14 +27,16 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 </p>
 
-<h5 align="center">
-   <b> 💬 Want to connect? 👇🏻 </b>
-  </h5>
-
+<div align="center">
+   <h3> Want to connect? 👇🏻 </h3>
+  <div>
+  
 <p align='center'>
    <a href="https://www.linkedin.com/in/karenlbenites/"><img height="30" src="https://raw.githubusercontent.com/Karen-Benites/Karen-Benites/main/linkedin.png"></a>&nbsp;&nbsp;
  </p>
-
+<a href="#">
+    <img src="svg/social/gmail.svg" alt="klbenites96" style="vertical-align:top; margin:6px 4px">
+  </a>  
 <!---
 Karen-Benites/Karen-Benites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
