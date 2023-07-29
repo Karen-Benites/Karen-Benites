@@ -1,6 +1,6 @@
-### Hello World | Mucho gusto 👋
+### Hi | Mucho gusto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
 - 👋 I’m Karen
 - 🐢 ESPOL Mechanical engineering graduate
@@ -26,6 +26,14 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 </p>
+
+<h5 align="center">
+   <b> 💬 Connect? lets get social 👇🏻 </b>
+  </h5>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
 <!---
 Karen-Benites/Karen-Benites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
