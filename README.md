@@ -30,13 +30,12 @@
 <div align="center">
    <h3> Want to connect? 👇🏻 </h3>
   <div>
-  
-<p align='center'>
-   <a href="https://www.linkedin.com/in/karenlbenites/"><img height="30" src="https://raw.githubusercontent.com/Karen-Benites/Karen-Benites/main/linkedin.png"></a>&nbsp;&nbsp;
- </p>
-<a href="#">
-    <img src="gmail.svg" alt="klbenites96@gmail.com" style="vertical-align:top; margin:6px 4px">
-  </a>  
+ 
+<div align="center">
+<h4> 📩 klbenites96@gmail.com </h4>
+<a href="https://www.linkedin.com/in/karenlbenites/"><img height="30" src="https://raw.githubusercontent.com/Karen-Benites/Karen-Benites/main/linkedin.png"> 
+</div>
+
 <!---
 Karen-Benites/Karen-Benites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
