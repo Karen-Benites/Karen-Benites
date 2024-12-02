@@ -4,10 +4,10 @@
 
 - 👋 I’m Karen
 - 🐢 ESPOL Mechanical engineering graduate
-- 📶 Self-taught and passionate about Data Science, Analytics, maths, and statistics
-- 📚 Currently freelance | Parter with @Hitthecode
+- 📶 Self-taught and passionate about Web development (especially the Front-end side) & UX-UI Design
+- 📚 Currently freelance
 - Space 🚀and nature🪴lover
-  
+<!---  
 ### My toolkit 👩🏻‍💻🖥️
 - Python libraries
 
@@ -45,6 +45,7 @@
 <div align="center">
    <h3> Want to connect? 👇🏻 </h3>
   <div>
+--->
  
 <div align="center">
 <h4> 📩 klbenites96@gmail.com </h4>
