@@ -41,11 +41,11 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 </p>
-
+--->
 <div align="center">
    <h3> Want to connect? 👇🏻 </h3>
   <div>
---->
+
  
 <div align="center">
 <h4> 📩 klbenites96@gmail.com </h4>
