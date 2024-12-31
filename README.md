@@ -16,7 +16,7 @@ I define myself as a person who never stops learning. Inspired by a short introd
 
 ## Want to connect? Find me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karen-Benites-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/karenlbenites/)
+[![LinkedIn](https://github.com/Karen-Benites/Karen-Benites/blob/main/assets/imgs/linkedin-profile.svg)](https://www.linkedin.com/in/karenlbenites/)
 
 <div align="left">
   <p> 📩 klbenites96@gmail.com </p>
