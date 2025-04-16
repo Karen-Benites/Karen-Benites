@@ -6,13 +6,14 @@
 <div align = "left">
     <ul>
       <li>👋 I'm Karen</li>
-      <li>🐢 ESPOL Mechanical engineering graduate</li>
-      <li>📶 Self-taught and passionate about Web development (especially the Front-end side) & UX-UI Design</li>
+      <li>📶 Self-taught and passionate Front end Web developer</li>
+      <li>🎨 I have a background in UX/UI and have volunteered in user research projects</li>
+      <li>💡 I enjoy writing clean, scalable, and maintainable code</li>
       <li>Space 🚀 and nature 🪴 lover</li>
     </ul>
 </div>
 
-I define myself as a person who never stops learning. Inspired by a short introductory course of web development, part of my current UX-UI certificate program, now I am self-learning HTML, CSS and Javascript to become a front-end developer. I am convinced that in this career, I can fully leverage my creative and programming skills to design impactful digital solutions.
+I define myself as a person who never stops learning. Inspired by a short introductory course of web development, part of my former UX-UI certificate program, now I am fully-commited to be the best Front end Web developer. I am convinced that in this career, I can fully leverage my creative and programming skills to design impactful digital solutions.
 
 ## Want to connect? Find me on:
 
