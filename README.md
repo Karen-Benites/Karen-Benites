@@ -36,6 +36,8 @@ I define myself as a person who never stops learning. Inspired by a short introd
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" style="padding: 10px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="padding: 10px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" style="padding: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="CSS" width="60" height="60" style="padding: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="CSS" width="60" height="60" style="padding: 10px;"/>
     </td>
    <!--- <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60" style="padding: 10px;"/>
