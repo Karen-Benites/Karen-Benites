@@ -18,7 +18,7 @@ I define myself as a person who never stops learning. Inspired by a short introd
 ## Want to connect? Find me on:
 
 [![LinkedIn](https://github.com/Karen-Benites/Karen-Benites/blob/main/assets/imgs/linkedin-profile.svg)](https://www.linkedin.com/in/karenlbenites/)
-[![Instagram](https://github.com/Karen-Benites/Karen-Benites/blob/main/assets/imgs/Instagram-%40Karen_benites-E4405F.svg)](https://www.instagram.com/karenlpx)
+[![Instagram](https://raw.githubusercontent.com/Karen-Benites/Karen-Benites/37022d76a2d631ef006744fccb49cd896ce4ea11/assets/imgs/Instagram-%40Karen_benites-E4405F.svg)](https://www.instagram.com/karensdevia)
 ![Mail](https://github.com/Karen-Benites/Karen-Benites/blob/main/assets/imgs/Karen-gmail.svg)
 
 ## 🔧 My toolkit
